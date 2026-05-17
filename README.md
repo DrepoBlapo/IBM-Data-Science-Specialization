@@ -1,7 +1,7 @@
 # IBM-Data-Science-Specialization
-Repositorio-índice que agrupa los distintos repositorios del curso IBM Data Science Specialization.
+Repository-index that groups the different repositories of the IBM Data Science Specialization course.
 
-_Repository-index that groups the different repositories of the IBM Data Science Specialization course._
+_Repositorio-índice que agrupa los distintos repositorios del curso IBM Data Science Specialization._
 
 ----------------------------------------
 | Area | Project | Technologies | Link |
